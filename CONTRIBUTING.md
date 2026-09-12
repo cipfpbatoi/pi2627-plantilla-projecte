@@ -2,6 +2,7 @@
 
 ## Tasques i branques
 
+- Les issues de treball les crea l'alumnat amb els formularis de la plantilla; no espereu una llista tancada preparada pel professorat.
 - Creeu una issue amb responsable, resultat, dependències i evidència.
 - Useu una branca com `23-model-dades` o `41-prova-accessibilitat`.
 - Feu commits breus que expliquen el resultat, no només l'acció.

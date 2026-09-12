@@ -11,6 +11,12 @@ Repositori base per documentar, planificar, prototipar i validar un projecte en 
 5. Treballeu amb branques i *pull requests* revisades.
 6. En cada punt de control, creeu una etiqueta i una *release*.
 
+## Qui crea les issues
+
+La plantilla proporciona els formularis, però **cada parella crea les issues concretes**. Definir el resultat, les dependències, els criteris d'acceptació i l'evidència forma part del treball.
+
+En el bloc 1, el professorat pot crear una única issue de posada en marxa. Després, l'equip provisional crea les tasques necessàries per elaborar i revisar el Dossier 0. S'utilitza el mateix procediment en els projectes reals.
+
 ## Estructura
 
 ```text
