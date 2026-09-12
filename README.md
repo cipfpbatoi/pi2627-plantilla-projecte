@@ -5,7 +5,7 @@ Repositori base per documentar, planificar, prototipar i validar un projecte en 
 ## Inici
 
 1. Creeu el repositori del projecte a partir d'esta plantilla.
-2. Actualitzeu [`docs/00-control/projecte.md`](docs/00-control/projecte.md).
+2. Poseu un identificador estable, el **nom del projecte** i el repositori en [`project.json`](project.json), i actualitzeu [`docs/00-control/projecte.md`](docs/00-control/projecte.md).
 3. Cada membre copia [`evidencies/alumnat/plantilla.md`](evidencies/alumnat/plantilla.md) amb el seu nom.
 4. Creeu una issue per cada tasca abans de començar-la.
 5. Treballeu amb branques i *pull requests* revisades.
