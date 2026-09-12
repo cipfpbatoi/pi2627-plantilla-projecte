@@ -1,0 +1,27 @@
+name: Consulta de traspàs
+description: Pregunta verificable de l'equip receptor a l'emissor
+title: "[Traspàs] "
+labels: ["traspàs"]
+body:
+  - type: input
+    id: versio
+    attributes:
+      label: Producte i versió rebuda
+    validations:
+      required: true
+  - type: textarea
+    id: consulta
+    attributes:
+      label: Ambigüitat, mancança o pregunta
+    validations:
+      required: true
+  - type: textarea
+    id: impacte
+    attributes:
+      label: Decisió o treball bloquejat/afectat
+    validations:
+      required: true
+  - type: textarea
+    id: resposta
+    attributes:
+      label: Resposta, evidència i acord

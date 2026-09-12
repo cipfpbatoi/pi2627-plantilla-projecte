@@ -1,0 +1,33 @@
+name: Proposta de canvi
+description: Modificació justificada d'un element rebut o aprovat
+title: "[Canvi] "
+labels: ["canvi"]
+body:
+  - type: textarea
+    id: motiu
+    attributes:
+      label: Evidència o situació que motiva el canvi
+    validations:
+      required: true
+  - type: textarea
+    id: element
+    attributes:
+      label: Element i versió afectats
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considerades
+    validations:
+      required: true
+  - type: textarea
+    id: impacte
+    attributes:
+      label: Impacte i decisió
+    validations:
+      required: true
+  - type: input
+    id: aprovacio
+    attributes:
+      label: Qui ha de revisar o aprovar?

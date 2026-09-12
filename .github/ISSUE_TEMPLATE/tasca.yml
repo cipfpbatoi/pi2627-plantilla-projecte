@@ -1,0 +1,39 @@
+name: Tasca
+description: Treball planificat que produïx un resultat verificable
+title: "[Tasca] "
+labels: ["tasca"]
+body:
+  - type: textarea
+    id: resultat
+    attributes:
+      label: Resultat esperat
+      description: Què existirà o canviarà quan estiga acabada?
+    validations:
+      required: true
+  - type: textarea
+    id: origen
+    attributes:
+      label: Origen i traçabilitat
+      description: Necessitat, requisit, lliurable o decisió relacionada.
+    validations:
+      required: true
+  - type: textarea
+    id: criteris
+    attributes:
+      label: Criteris d'acceptació i proves
+    validations:
+      required: true
+  - type: textarea
+    id: dependències
+    attributes:
+      label: Dependències, riscos i recursos
+  - type: input
+    id: estimacio
+    attributes:
+      label: Estimació d'esforç
+  - type: textarea
+    id: evidencia
+    attributes:
+      label: Evidència que quedarà
+    validations:
+      required: true

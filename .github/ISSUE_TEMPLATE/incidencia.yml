@@ -1,0 +1,29 @@
+name: Incidència o risc materialitzat
+description: Registra un impediment, la seua anàlisi i resposta
+title: "[Incidència] "
+labels: ["incidència"]
+body:
+  - type: textarea
+    id: observacio
+    attributes:
+      label: Què ha passat i quina evidència hi ha?
+    validations:
+      required: true
+  - type: textarea
+    id: impacte
+    attributes:
+      label: Impacte en abast, temps, cost, qualitat o riscos
+    validations:
+      required: true
+  - type: textarea
+    id: resposta
+    attributes:
+      label: Alternatives i resposta acordada
+    validations:
+      required: true
+  - type: textarea
+    id: seguiment
+    attributes:
+      label: Responsable, termini i comprovació
+    validations:
+      required: true
