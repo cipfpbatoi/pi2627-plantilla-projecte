@@ -32,3 +32,7 @@ traspassos/            Actes entre equips
 ```
 
 Consulteu [`CONTRIBUTING.md`](CONTRIBUTING.md) abans de treballar.
+
+## Ús d'intel·ligència artificial
+
+Els assistents d'IA han de seguir [`AGENTS.md`](AGENTS.md). La plantilla inclou també instruccions compatibles amb Claude Code, Gemini CLI, GitHub Copilot i Cursor. Estes regles permeten ajuda formativa, però impedixen substituir la reflexió, inventar evidències o redactar l'autoavaluació de l'alumnat.
