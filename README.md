@@ -27,7 +27,7 @@ El professorat crea el repositori de l'equip a partir d'esta plantilla i vos env
    git push -u origin posada-en-marxa/nom-cognoms
    ```
 
-5. Obriu una *pull request* en GitHub. Una altra persona de l'equip la revisa abans d'incorporar-la a `main`. Això comprova el clon, l'autoria, el `push` i la revisió compartida.
+5. Obriu una *pull request* en GitHub amb `Relacionada amb #1`, sense usar `Tanca #1`. Una altra persona de l'equip la revisa abans d'incorporar-la a `main`; la issue compartida es tanca manualment quan totes les persones acaben. Això comprova el clon, l'autoria, el `push` i la revisió compartida.
 6. Abans de cada treball posterior, executeu `git switch main` i `git pull`; després creeu una branca vinculada a la issue corresponent.
 7. Reviseu l'identificador, el **nom del projecte** i el repositori de [`project.json`](project.json), i actualitzeu [`docs/00-control/projecte.md`](docs/00-control/projecte.md).
 8. En el bloc 1, copieu la [plantilla pública del Dossier 0](https://cipfpbatoi.github.io/pi2627/bloc1-dossier0.html) a `docs/01-proposta/dossier-0.md`.
@@ -36,7 +36,7 @@ El professorat crea el repositori de l'equip a partir d'esta plantilla i vos env
 
 ## Qui crea les issues
 
-La plantilla proporciona els formularis, però **cada parella crea les issues concretes**. Definir el resultat, les dependències, els criteris d'acceptació i l'evidència forma part del treball.
+La plantilla proporciona els formularis, però **cada equip crea les issues concretes**. Definir el resultat, les dependències, els criteris d'acceptació i l'evidència forma part del treball.
 
 En el bloc 1, el professorat pot crear una única issue de posada en marxa. Després, l'equip provisional crea les tasques necessàries per elaborar i revisar el Dossier 0. S'utilitza el mateix procediment en els projectes reals.
 

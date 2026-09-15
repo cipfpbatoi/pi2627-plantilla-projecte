@@ -6,7 +6,7 @@
 - Creeu una issue amb responsable, resultat, dependències i evidència.
 - Useu una branca com `23-model-dades` o `41-prova-accessibilitat`.
 - Feu commits breus que expliquen el resultat, no només l'acció.
-- Relacioneu la pull request amb la issue (`Closes #23`).
+- Relacioneu la pull request amb la issue (`Relacionada amb #23`). Useu `Tanca #23` només quan una única pull request complete tota la issue.
 
 ## Revisió
 

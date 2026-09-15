@@ -2,7 +2,9 @@
 
 <!-- Què incorpora o modifica? -->
 
-Tanca #
+Relacionada amb #
+
+<!-- Useu «Tanca #» només si esta PR completa tota la issue. -->
 
 ## Justificació i impacte
 
