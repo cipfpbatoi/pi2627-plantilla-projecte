@@ -24,7 +24,7 @@ Un treball està fet quan el resultat és accessible, revisat, provat quan corre
 
 ## Versions
 
-Useu etiquetes immutables: `dossier-1-v1.0`, `dossier-2-v1.0`, `pla-v1.0`, `iteracio-1-v0.1`, `prototip-v1.0` i `tancament-v1.0`. Si cal corregir una entrega, publiqueu `v1.1`; no mogueu l'etiqueta anterior.
+Useu etiquetes immutables: `dossier-0-v1.0`, `dossier-1-v1.0`, `dossier-2-v1.0`, `pla-v1.0`, `iteracio-1-v0.1`, `prototip-v1.0` i `tancament-v1.0`. Si cal corregir una entrega, publiqueu `v1.1`; no mogueu l'etiqueta anterior.
 
 ## Traspàs
 
