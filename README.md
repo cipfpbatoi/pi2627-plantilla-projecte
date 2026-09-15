@@ -4,14 +4,35 @@ Repositori base per documentar, planificar, prototipar i validar un projecte en 
 
 ## Inici
 
-1. Creeu el repositori del projecte a partir d'esta plantilla, normalment dins de l'organització docent `batoi-pi-2026`.
-2. Poseu un identificador estable, el **nom del projecte** i el repositori en [`project.json`](project.json), i actualitzeu [`docs/00-control/projecte.md`](docs/00-control/projecte.md).
-3. Cada membre copia [`evidencies/alumnat/plantilla.md`](evidencies/alumnat/plantilla.md) amb el seu nom.
-4. En el bloc 1, copieu la [plantilla pública del Dossier 0](https://cipfpbatoi.github.io/pi2627/bloc1-dossier0.html) a `docs/01-proposta/dossier-0.md`.
-5. Convertiu este `README.md` en una portada breu que enllace el dossier, els controls i les evidències individuals; no hi copieu tota l'entrega.
-6. Creeu una issue per cada tasca abans de començar-la.
-7. Treballeu amb branques i *pull requests* revisades.
-8. En cada punt de control, creeu una etiqueta i una *release*.
+El professorat crea el repositori de l'equip a partir d'esta plantilla i vos envia una invitació. No creeu un altre repositori ni cloneu el repositori plantilla.
+
+1. Cada membre accepta la invitació de GitHub i obri el repositori assignat dins de `batoi-pi-2026`.
+2. Cada membre clona eixe mateix repositori en el seu ordinador:
+
+   ```bash
+   git clone https://github.com/batoi-pi-2026/som-barri-equip-01.git
+   cd som-barri-equip-01
+   git remote -v
+   ```
+
+   Substituïu `som-barri-equip-01` pel nom real. `origin` ha d'apuntar al repositori de l'equip, no a `pi2627-plantilla-projecte`.
+3. Comproveu la identitat de Git amb `git config user.name` i `git config user.email`. Cada persona ha de treballar amb el seu compte.
+4. Creeu o assumiu la issue de posada en marxa. Cada membre obri una branca pròpia, copia [`evidencies/alumnat/plantilla.md`](evidencies/alumnat/plantilla.md) amb un nom de fitxer identificable i publica la branca:
+
+   ```bash
+   git switch -c posada-en-marxa/nom-cognoms
+   cp evidencies/alumnat/plantilla.md evidencies/alumnat/nom-cognoms.md
+   git add evidencies/alumnat/nom-cognoms.md
+   git commit -m "docs: crea el registre individual"
+   git push -u origin posada-en-marxa/nom-cognoms
+   ```
+
+5. Obriu una *pull request* en GitHub. Una altra persona de l'equip la revisa abans d'incorporar-la a `main`. Això comprova el clon, l'autoria, el `push` i la revisió compartida.
+6. Abans de cada treball posterior, executeu `git switch main` i `git pull`; després creeu una branca vinculada a la issue corresponent.
+7. Reviseu l'identificador, el **nom del projecte** i el repositori de [`project.json`](project.json), i actualitzeu [`docs/00-control/projecte.md`](docs/00-control/projecte.md).
+8. En el bloc 1, copieu la [plantilla pública del Dossier 0](https://cipfpbatoi.github.io/pi2627/bloc1-dossier0.html) a `docs/01-proposta/dossier-0.md`.
+9. Convertiu este `README.md` en una portada breu que enllace el dossier, els controls i les evidències individuals; no hi copieu tota l'entrega.
+10. Creeu una issue per cada tasca, treballeu amb branques i *pull requests* revisades i, en cada punt de control, creeu una etiqueta i una *release*.
 
 ## Qui crea les issues
 
