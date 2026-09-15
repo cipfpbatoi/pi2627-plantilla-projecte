@@ -4,7 +4,7 @@ Repositori base per documentar, planificar, prototipar i validar un projecte en 
 
 ## Inici
 
-1. Creeu el repositori del projecte a partir d'esta plantilla.
+1. Creeu el repositori del projecte a partir d'esta plantilla, normalment dins de l'organització docent `batoi-pi-2026`.
 2. Poseu un identificador estable, el **nom del projecte** i el repositori en [`project.json`](project.json), i actualitzeu [`docs/00-control/projecte.md`](docs/00-control/projecte.md).
 3. Cada membre copia [`evidencies/alumnat/plantilla.md`](evidencies/alumnat/plantilla.md) amb el seu nom.
 4. En el bloc 1, copieu la [plantilla pública del Dossier 0](https://cipfpbatoi.github.io/pi2627/bloc1-dossier0.html) a `docs/01-proposta/dossier-0.md`.
