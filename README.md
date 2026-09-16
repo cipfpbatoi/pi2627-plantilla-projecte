@@ -30,7 +30,7 @@ El professorat crea el repositori de l'equip a partir d'esta plantilla i vos env
 5. Obriu una *pull request* en GitHub amb `Relacionada amb #1`, sense usar `Tanca #1`. Una altra persona de l'equip la revisa abans d'incorporar-la a `main`; la issue compartida es tanca manualment quan totes les persones acaben. Això comprova el clon, l'autoria, el `push` i la revisió compartida.
 6. Abans de cada treball posterior, executeu `git switch main` i `git pull`; després creeu una branca vinculada a la issue corresponent.
 7. Reviseu l'identificador, el **nom del projecte** i el repositori de [`project.json`](project.json), i actualitzeu [`docs/00-control/projecte.md`](docs/00-control/projecte.md).
-8. En el bloc 1, copieu la [plantilla pública del Dossier 0](https://cipfpbatoi.github.io/pi2627/bloc1-dossier0.html) a `docs/01-proposta/dossier-0.md`.
+8. En Som Barri, `docs/01-proposta/dossier-0.md` ja és la còpia preparada de la [plantilla pública del Dossier 0](https://cipfpbatoi.github.io/pi2627/bloc1-dossier0.html). Completeu eixe fitxer compartit; no torneu a copiar la plantilla ni creeu un segon dossier. En altres projectes, seguiu les indicacions del professorat si encara no està preparat.
 9. Convertiu este `README.md` en una portada breu que enllace el dossier, els controls i les evidències individuals; no hi copieu tota l'entrega.
 10. Creeu una issue per cada tasca, treballeu amb branques i *pull requests* revisades i, en cada punt de control, creeu una etiqueta i una *release*.
 
