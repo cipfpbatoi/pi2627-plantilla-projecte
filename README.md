@@ -2,6 +2,10 @@
 
 Repositori base per documentar, planificar, prototipar i validar un projecte en relleu.
 
+## Ritme del projecte
+
+Després del Bloc 1, el recorregut prioritza el prototip: Bloc 2 (6 h, proposta), Bloc 3 (9 h, avantprojecte i prova tècnica reduïda), Bloc 4 (9 h, pla mínim executable i traspàs), Bloc 5 (57 h, prototip i validació) i Bloc 6 (9 h, tancament). Manteniu un únic fil de traçabilitat entre necessitat, requisit, issue, prova, resultat i decisió; no dupliqueu esta informació en documents diferents.
+
 ## Inici
 
 El professorat crea el repositori de l'equip a partir d'esta plantilla i vos envia una invitació. No creeu un altre repositori ni cloneu el repositori plantilla.

@@ -1,6 +1,6 @@
 # Planificació
 
-En el bloc 4, la parella planificadora convertix l'avantprojecte rebut en un pla executable. Completeu:
+En el bloc 4 (9 h), la parella planificadora convertix l'avantprojecte rebut en un pla mínim executable. Completeu només el detall que permet iniciar, provar i controlar el recorregut prioritari:
 
 - [`pla-projecte.md`](pla-projecte.md): línia base, EDT, dependències, estimacions, recursos, costos, riscos, execució i control;
 - [`pla-proves.md`](pla-proves.md): proves i indicadors traçats als requisits;
