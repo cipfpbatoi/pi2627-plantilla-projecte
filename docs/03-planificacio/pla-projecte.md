@@ -1,54 +1,68 @@
-# Pla del projecte
+# Plantilla del Pla del projecte
 
-> Completeu la guia detallada del bloc 4. No elimineu una secció: si no és aplicable, justifiqueu-ho.
+Completeu este fitxer a partir de la versió immutable del Dossier 2 i enllaceu les issues, fites, diagrames i documents auxiliars.
 
-## 1. Identificació, auditoria i línia base
+## 1. Identificació i entrada
 
 | Projecte | Versió rebuda | Parella autora | Parella planificadora | Data |
 | --- | --- | --- | --- | --- |
 |  |  |  |  |  |
 
-| Condició, buit o canvi | Tipus | Consulta/evidència | Resolució i impacte | Autorització/estat |
+| Condició, buit o contradicció | Tipus | Consulta/evidència | Resolució | Estat |
 | --- | --- | --- | --- | --- |
 |  | Aclariment / decisió / canvi |  |  |  |
 
-## 2. Lliurables i EDT
+## 2. Línia base i canvis
 
-| ID | Lliurable o paquet de treball | Requisits | Entrades/eixides | Criteri de fet | Issue |
-| --- | --- | --- | --- | --- | --- |
-| PT-01 |  |  |  |  |  |
-
-## 3. Dependències i prioritats
-
-| Tasca | Predecessora/bloqueig | Prioritat i motiu | Alternatives | Risc relacionat |
+| Element | Es conserva o canvia | Motiu i evidència | Impacte | Autorització |
 | --- | --- | --- | --- | --- |
 |  |  |  |  |  |
 
-## 4. Estimacions, recursos i responsabilitats
+## 3. Lliurables
+
+| ID | Lliurable/resultat | Requisits | Criteri d'acceptació | Evidència |
+| --- | --- | --- | --- | --- |
+| LLI-01 |  |  |  |  |
+
+## 4. EDT i paquets de treball
+
+| ID | Paquet/tasca | Resultat | Entrades/eixides | Criteri de fet | Issue |
+| --- | --- | --- | --- | --- | --- |
+| PT-01 |  |  |  |  |  |
+
+## 5. Dependències i prioritats
+
+| Tasca | Predecessora/bloqueig | Tipus de dependència | Prioritat i motiu | Alternativa |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |
+
+## 6. Estimacions, recursos i responsabilitats
 
 | Tasca | Hores/interval | Mètode i supòsits | Recursos/logística | Responsable | Revisió |
 | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |
 
-## 5. Cronograma, fites i iteracions
+## 7. Cronograma, fites i iteracions
 
 | Iteració/fita | Resultat verificable | Tasques | Dates/capacitat | Dependències | Revisió |
 | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |
 
-Enllaceu el cronograma i expliqueu les dependències crítiques.
+Enllaceu el cronograma o diagrama de dependències i expliqueu el camí o les dependències crítiques.
 
-## 6. Costos i finançament
+Comproveu que les [condicions tècniques comunes](https://cipfpbatoi.github.io/pi2627/condicions-tecniques.html) tenen tasques, responsables, dependències, temps i punts de prova. La seua presència en el Dossier 2 no substituïx la planificació.
 
-| Concepte | Quantitat/temps | Cost unitari | Cost del prototip | Cost d'operació | Font/supòsit |
+## 8. Valoració econòmica
+
+| Concepte | Quantitat/temps | Cost unitari | Cost prototip | Cost posada en marxa/operació | Font o supòsit |
 | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |
 
-Indiqueu les necessitats de finançament o per què no són aplicables.
+Indiqueu necessitats de finançament o justifiqueu que no són aplicables.
 
-## 7. Permisos, procediments i riscos
+## 9. Permisos, procediments i riscos
 
-| Permís/autorització | Activitat | Responsable | Moment | Evidència |
+| Permís/autorització | Activitat afectada | Responsable | Moment | Evidència |
 | --- | --- | --- | --- | --- |
 |  |  |  |  |  |
 
@@ -56,57 +70,88 @@ Indiqueu les necessitats de finançament o per què no són aplicables.
 | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |
 
-Enllaceu els procediments d'execució que no queden descrits en les issues.
+Descriviu o enllaceu els procediments d'execució que no queden clars en les issues.
 
-## 8. Sistema de treball en GitHub
+## 10. Sistema de treball en GitHub
 
-| Element | Convenció | Responsable | Evidència/enllaç |
+| Element | Convenció | Responsable de mantindre'l | Evidència |
 | --- | --- | --- | --- |
 | Issues, etiquetes i fites |  |  |  |
 | Branques i pull requests |  |  |  |
 | Tauler i revisions |  |  |  |
 | Etiquetes i releases |  |  |  |
 
-### Definició de fet
+## 11. Definició de fet
 
-- [ ] Criteris d'acceptació comprovats.
-- [ ] Proves aplicables superades i evidència enllaçada.
-- [ ] Canvi revisat i integrat segons el flux acordat.
-- [ ] Documentació, accessibilitat, seguretat i dades revisades quan pertoque.
-- [ ] Issue actualitzada amb l'estat real.
+- [ ] El criteri d'acceptació està comprovat.
+- [ ] Les proves aplicables passen i el resultat queda registrat.
+- [ ] El canvi ha sigut revisat i integrat segons el flux acordat.
+- [ ] La documentació, accessibilitat, seguretat i dades estan revisades quan pertoque.
+- [ ] La issue enllaça l'evidència i reflectix l'estat real.
 
-## 9. Proves, qualitat i desplegament
+Afegiu o adapteu criteris específics del projecte.
 
-Enllaceu [`pla-proves.md`](pla-proves.md) i [`pla-desplegament.md`](pla-desplegament.md). Resumiu les decisions que afecten la seqüència o els recursos.
+## 12. Pla de proves i qualitat
 
-## 10. Seguiment, incidències i canvis
+Enllaceu `pla-proves.md`.
 
-| Indicador | Font/freqüència | Responsable | Llindar | Decisió possible |
+| Requisit/condició | Prova o indicador | Moment | Responsable | Evidència | Llindar/decisió |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
+
+## 13. Pla de desplegament
+
+Enllaceu `pla-desplegament.md` i resumiu entorn, configuració, dades, verificació, recuperació, dependències i costos.
+
+## 14. Seguiment i incidències
+
+| Indicador | Font | Freqüència | Responsable | Llindar | Decisió possible |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
+
+| Incidència | Efecte/prioritat | Diagnòstic | Resposta | Comprovació | Estat |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
+
+## 15. Gestió de canvis, participació i compliment
+
+| Canvi | Origen | Impacte en abast/temps/cost/risc/proves | Decisió | Versió |
 | --- | --- | --- | --- | --- |
 |  |  |  |  |  |
-
-| Incidència o canvi | Efecte i prioritat | Impacte en abast/temps/cost/risc/proves | Resposta/decisió | Comprovació/versió |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-
-## 11. Participació i compliment
 
 | Persona usuària/clienta o condició | Participació/control | Moment | Instrument | Evidència |
 | --- | --- | --- | --- | --- |
 |  |  |  |  |  |
 
-## 12. Traçabilitat
+## 16. Traçabilitat, autoria i IA
 
 | Necessitat | Requisit | Lliurable/tasca | Responsable | Prova | Risc/decisió |
 | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |
 
-## 13. Autoria, revisió i traspàs
+Enllaceu les evidències individuals i actualitzeu `docs/00-control/fonts-ia.md` i `decisions.md`. Cada membre defensarà una cadena completa i una estimació o decisió que haja revisat.
 
-Enllaceu les evidències individuals i actualitzeu `docs/00-control/decisions.md` i `fonts-ia.md`.
+## 17. Revisió i segon traspàs
 
-| Resultat docent | Ajusts | Versió/data | Parella prototipadora | Acceptació/reserves |
+| Resultat docent | Condicions/ajustos | Data | Persona que valida |
+| --- | --- | --- | --- |
+| Apte per executar / apte amb ajustos / retornat |  |  |  |
+
+| Versió i data | Parella emissora | Parella prototipadora | Reserves | Acceptació |
 | --- | --- | --- | --- | --- |
-| Apte / apte amb ajustos / retornat |  |  |  |  |
+|  |  |  |  |  |
 
-L'acta completa s'ha de conservar en `traspassos/02-pla-a-prototip.md`.
+## Revisió final
+
+- [ ] La versió d'entrada i qualsevol canvi de línia base són identificables.
+- [ ] Tots els lliurables es descomponen en tasques estimables i traçades.
+- [ ] Dependències, recursos, responsabilitats, temps i costos són coherents.
+- [ ] Permisos, riscos i procediments tenen resposta i responsable.
+- [ ] Les issues, fites i criteris de fet permeten iniciar l'execució.
+- [ ] Les proves, el desplegament, el seguiment, les incidències i els canvis tenen procediment.
+- [ ] La participació de persones usuàries i el compliment estan previstos quan pertoquen.
+- [ ] Les aportacions individuals, fonts i ús d'IA són verificables.
+
+## Abast curricular de l'evidència
+
+El pla pot aportar evidència **suficient dins del bloc** de RA3.a–h si és coherent, executable i atribuïble. Pot aportar evidència de RA4.a–g sobre els procediments definits; la seua aplicació i eficàcia es contrastaran durant el prototip. L'abast real es determina per alumne o alumna i els criteris no aplicables s'han de justificar.

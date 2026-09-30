@@ -2,7 +2,6 @@
 
 Conserveu ací els documents compartits de definició inicial:
 
-- `dossier-0.md`: diagnòstic formatiu del bloc 1, quan corresponga;
 - `dossier-1.md`: proposta de projecte del bloc 2;
 - `recursos/`: diagrames, cronogrames o altres fitxers propis d'estos dossiers.
 

@@ -34,7 +34,7 @@ El professorat crea el repositori de l'equip a partir d'esta plantilla i vos env
 5. Obriu una *pull request* en GitHub amb `Relacionada amb #1`, sense usar `Tanca #1`. Una altra persona de l'equip la revisa abans d'incorporar-la a `main`; la issue compartida es tanca manualment quan totes les persones acaben. Això comprova el clon, l'autoria, el `push` i la revisió compartida.
 6. Abans de cada treball posterior, executeu `git switch main` i `git pull`; després creeu una branca vinculada a la issue corresponent.
 7. Reviseu l'identificador, el **nom del projecte** i el repositori de [`project.json`](project.json), i actualitzeu [`docs/00-control/projecte.md`](docs/00-control/projecte.md).
-8. En Som Barri, `docs/01-proposta/dossier-0.md` ja és la còpia preparada de la [plantilla pública del Dossier 0](https://cipfpbatoi.github.io/pi2627/bloc1-dossier0.html). Completeu eixe fitxer compartit; no torneu a copiar la plantilla ni creeu un segon dossier. En altres projectes, seguiu les indicacions del professorat si encara no està preparat.
+8. Comenceu el treball definitiu amb `docs/01-proposta/dossier-1.md`, que ja incorpora la plantilla de la proposta. No creeu còpies paral·leles ni traslladeu ací el Dossier 0 del Bloc 1.
 9. Convertiu este `README.md` en una portada breu que enllace el dossier, els controls i les evidències individuals; no hi copieu tota l'entrega.
 10. Creeu una issue per cada tasca, treballeu amb branques i *pull requests* revisades i, en cada punt de control, creeu una etiqueta i una *release*.
 
@@ -42,13 +42,13 @@ El professorat crea el repositori de l'equip a partir d'esta plantilla i vos env
 
 La plantilla proporciona els formularis, però **cada equip crea les issues concretes**. Definir el resultat, les dependències, els criteris d'acceptació i l'evidència forma part del treball.
 
-En el bloc 1, el professorat pot crear una única issue de posada en marxa. Després, l'equip provisional crea les tasques necessàries per elaborar i revisar el Dossier 0. S'utilitza el mateix procediment en els projectes reals.
+En els projectes definitius, l'equip crea les issues concretes a partir del Dossier 1, el Dossier 2 o el Pla que tinga en custòdia. No convertiu les seccions d'una plantilla en issues automàtiques: formuleu un resultat, dependències, criteri d'acceptació i evidència adequats.
 
 ## Estructura
 
 ```text
 docs/00-control/       Identificació, decisions, fonts i IA
-docs/01-proposta/      Dossier 0 diagnòstic i Dossier 1 de proposta
+docs/01-proposta/      Dossier 1 de proposta
 docs/02-avantprojecte/ Dossier 2 i dissenys
 docs/03-planificacio/  Pla, riscos, cronograma i proves
 docs/04-seguiment/     Canvis, incidències i resultats
@@ -58,7 +58,7 @@ prototip/              Codi i instruccions d'execució
 traspassos/            Actes entre equips
 ```
 
-## Primera entrega: Dossier 0
+## Primera entrega definitiva: Dossier 1
 
 La ubicació canònica és:
 
@@ -68,11 +68,11 @@ README.md
 docs/00-control/projecte.md
 docs/00-control/decisions.md
 docs/00-control/fonts-ia.md
-docs/01-proposta/dossier-0.md
+docs/01-proposta/dossier-1.md
 evidencies/alumnat/nom-cognoms.md
 ```
 
-El dossier conté el treball compartit. Cada reflexió i aportació individual es registra una sola vegada en el fitxer personal i s'enllaça des del dossier i el README. L'etiqueta `dossier-0-v1.0` es crea al final del bloc 1, no després de cada sessió.
+El dossier conté el treball compartit. Cada reflexió i aportació individual es registra una sola vegada en el fitxer personal i s'enllaça des del dossier i el README. L'etiqueta `dossier-1-v1.0` es crea al final del bloc 2.
 
 Quan comenceu el projecte, substituïu les orientacions inicials d'este README per una portada breu com esta:
 
@@ -81,7 +81,7 @@ Quan comenceu el projecte, substituïu les orientacions inicials d'este README p
 
 ## Entrega actual
 
-- [Dossier 0](docs/01-proposta/dossier-0.md)
+- [Dossier 1](docs/01-proposta/dossier-1.md)
 - [Fonts i ús d'IA](docs/00-control/fonts-ia.md)
 - [Decisions](docs/00-control/decisions.md)
 
@@ -91,7 +91,7 @@ Quan comenceu el projecte, substituïu les orientacions inicials d'este README p
 
 ## Versió entregada
 
-`dossier-0-v1.0`
+`dossier-1-v1.0`
 ```
 
 Consulteu [`CONTRIBUTING.md`](CONTRIBUTING.md) abans de treballar.
