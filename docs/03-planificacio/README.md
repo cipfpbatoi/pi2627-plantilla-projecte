@@ -7,3 +7,5 @@ En el bloc 4 (9 h), la parella planificadora convertix l'avantprojecte rebut en 
 - [`pla-desplegament.md`](pla-desplegament.md): entorn, publicació, verificació i recuperació.
 
 Les issues concretes, fites i tauler es creen en GitHub i s'enllacen des del pla. Quan el professorat accepte el resultat, creeu `traspassos/02-pla-a-prototip.md` a partir de la plantilla d'acta i marqueu la versió `pla-v1.0`.
+
+El pla és acumulatiu: la sessió 1 fixa l'entrada i l'EDT; la sessió 2 ordena, estima i prepara els procediments de control; la sessió 3 concreta el sistema de treball, executa i registra dos publicacions de prova i formalitza el traspàs.
