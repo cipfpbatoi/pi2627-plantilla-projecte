@@ -12,6 +12,39 @@ El pla és acumulatiu. Actualitzeu la versió i els apartats indicats al final d
 | Sessió 2. Ordenar, estimar i preparar el control | 5–6 i 8–9; esborranys dels apartats 12–15, de `pla-proves.md` i de `pla-desplegament.md` |
 | Sessió 3. Organitzar, provar i traspassar | Revisar el 6 i els esborranys; completar 7, 10–17, executar i registrar la prova de desplegament i formalitzar el traspàs |
 
+### Checklist concreta de la sessió 1
+
+- **1:** versió rebuda, auditoria i consultes necessàries;
+- **2:** línia base, canvis, impacte i autorització;
+- **3:** lliurables i criteris d'acceptació;
+- **4:** EDT i paquets de treball executables;
+- **16:** inici de la traçabilitat i evidència individual de la decisió revisada.
+
+No completeu encara estimacions, cronograma ni procediments de control definitius.
+
+### Checklist concreta de la sessió 2
+
+- **5:** dependències, bloquejos i prioritats;
+- **6:** estimacions, recursos i responsabilitats provisionals;
+- **8:** valoració econòmica;
+- **9:** permisos, procediments i riscos;
+- **12–15:** esborranys de proves, desplegament, seguiment, incidències i canvis;
+- `pla-proves.md` i `pla-desplegament.md`: primer esborrany reproduïble;
+- **16:** actualització de traçabilitat, autoria, fonts i IA.
+
+La guia «Preparar el control» forma part d'esta sessió. No tanqueu encara el cronograma, les issues, la versió `pla-v1.0` ni el traspàs.
+
+### Checklist concreta de la sessió 3
+
+- revisar **6** i completar **7** amb cronograma, fites i capacitat;
+- completar **10–11** amb el sistema de treball i la definició de fet;
+- revisar i tancar **12–15**, `pla-proves.md` i `pla-desplegament.md`;
+- completar **16–17**, les issues, les fites, el tauler i les evidències individuals;
+- executar i registrar les dues publicacions de la prova de desplegament;
+- formalitzar `traspassos/02-pla-a-prototip.md` i crear `pla-v1.0` només després de l'acceptació docent.
+
+La prova de desplegament i el traspàs estan integrats en esta sessió; no són una sessió addicional.
+
 ## 1. Identificació i entrada
 
 | Projecte | Versió rebuda | Parella autora | Parella planificadora | Data |

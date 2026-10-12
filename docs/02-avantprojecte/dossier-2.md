@@ -2,6 +2,48 @@
 
 Completeu este fitxer a partir de la versió acceptada del Dossier 1 i conserveu l'historial. Enllaceu els diagrames, prototips, proves i fonts; no dupliqueu evidències sense necessitat.
 
+## Com completar l'avantprojecte per sessions
+
+El dossier és acumulatiu. En cada sessió completeu els apartats indicats i reviseu els anteriors quan una prova o una decisió aporte informació nova.
+
+| Moment | Apartats que cal completar o revisar |
+| --- | --- |
+| Sessió 1. Objectius, èxit i requisits | 1–5; iniciar 12 i registrar l'autoria de la sessió en el 13 |
+| Sessió 2. Disseny funcional, dades i arquitectura | 6–7 i 9–10; revisar 5 i ampliar 12–13 |
+| Sessió 3. Interfície, viabilitat i traspàs | 8 i 11; completar 12–15 i revisar tot el dossier |
+
+### Checklist concreta de la sessió 1
+
+- **1:** identificació, versió i condicions rebudes del Dossier 1;
+- **2:** necessitat, persones i context, indicant només canvis o evidències noves;
+- **3:** objectius amb criteris d'èxit observables;
+- **4:** abast, exclusions, supòsits i manera de comprovar-los;
+- **5:** requisits funcionals i no funcionals prioritzats i verificables;
+- **12:** almenys una cadena necessitat → objectiu → requisit → prova;
+- **13:** aportacions, autoria, fonts i ús d'IA de la sessió.
+
+No completeu encara el disseny funcional, les dades, la interfície, l'arquitectura, la viabilitat ni el traspàs.
+
+### Checklist concreta de la sessió 2
+
+- **6:** recorregut principal, alternatives, errors i regles funcionals;
+- **7:** model i tractament de les dades;
+- **9:** arquitectura, integracions i funció dels mínims dels mòduls;
+- **10:** alternatives comparades i decisions justificades;
+- **5, 12 i 13:** requisits revisats, traçabilitat ampliada i autoria de la sessió.
+
+La guia d'arquitectura i alternatives està integrada en esta sessió; no és una sessió addicional. No tanqueu encara la viabilitat ni la decisió de traspàs.
+
+### Checklist concreta de la sessió 3
+
+- **8:** prototip de baixa fidelitat, prova realitzada i canvis decidits;
+- **11:** viabilitat tècnica, temporal, econòmica, legal, operativa i d'ús;
+- **12–13:** traçabilitat final, autoria, fonts i ús d'IA;
+- **14:** decisió docent, ajustos i acta de traspàs;
+- **15:** revisió final completa.
+
+La revisió de viabilitat està integrada en esta sessió. Abans de crear `dossier-2-v1.0`, reviseu també els apartats 1–10 afectats per les proves i decisions.
+
 ## 1. Identificació, versions i condicions d'entrada
 
 | Projecte | Equip | Versió i data | Enllaç de treball |
