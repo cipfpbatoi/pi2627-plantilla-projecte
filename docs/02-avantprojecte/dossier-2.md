@@ -70,7 +70,7 @@ Enllaceu el prototip de baixa fidelitat i documenteu jerarquia, navegació, esta
 
 ## 9. Arquitectura i integracions
 
-Adjunteu un diagrama de context o components. Expliqueu l'*stack*, el client, l'autenticació, l'API, el manteniment administratiu, les dades, la integració híbrida, la interfície i el desplegament. Justifiqueu com cada peça complix els [mínims dels mòduls](https://cipfpbatoi.github.io/pi2627/condicions-tecniques.html) i aporta valor al recorregut.
+Adjunteu un diagrama de context o components. Expliqueu l'*stack*, el client, l'autenticació, l'API, el manteniment administratiu, les dades, la integració híbrida, la interfície, la infraestructura en el núvol i la integració i el desplegament continus. Justifiqueu com cada peça complix els [mínims dels mòduls](https://cipfpbatoi.github.io/pi2627/condicions-tecniques.html) i aporta valor al recorregut.
 
 | Component/integració | Necessitat coberta | Responsabilitat | Dependència | Fallada o risc |
 | --- | --- | --- | --- | --- |
