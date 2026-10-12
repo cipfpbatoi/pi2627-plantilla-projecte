@@ -12,6 +12,21 @@ Este dossier és acumulatiu: no cal completar-lo tot en la primera sessió. Actu
 | Sessió 2. Comparar alternatives | Revisar 3 i 5; completar 6–10, 13 i evidència individual de la sessió 2 en el 14 |
 | Consolidació, revisió i decisió | Completar 11–15 i actualitzar qualsevol apartat afectat |
 
+### Checklist concreta de la sessió 1
+
+En acabar la primera sessió han de quedar emplenats:
+
+- **1:** identificació de l'equip i versió `0.1`;
+- **2:** banc inicial i selecció de dues a quatre candidates;
+- **3:** fitxa de cada necessitat candidata, amb evidències i limitacions;
+- **4:** parts interessades i possible participació en la validació;
+- **5:** preguntes, fonts o mètodes, resultats i fiabilitat;
+- **10:** repartiment del treball i autoria;
+- **13:** fonts i ús d'IA, o declaració expressa que no se n'ha utilitzat;
+- **14:** enllaç a l'evidència individual de cada membre i resposta individual de la sessió 1.
+
+No completeu encara els apartats **6–9, 11, 12 i 15**. Es treballaran en la sessió 2 o durant la consolidació. En el 14, completeu només la part corresponent a la sessió 1.
+
 ## 1. Identificació i control de versions
 
 | Dada | Informació |
