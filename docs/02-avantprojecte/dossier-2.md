@@ -70,11 +70,19 @@ Enllaceu el prototip de baixa fidelitat i documenteu jerarquia, navegació, esta
 
 ## 9. Arquitectura i integracions
 
-Adjunteu un diagrama de context o components. Expliqueu el client, l'API d'accés i negoci, la pàgina generada al servidor, les dades, el desplegament i la font d'informació existent. Justifiqueu com cada peça complix les [condicions tècniques comunes](https://cipfpbatoi.github.io/pi2627/condicions-tecniques.html) i aporta valor al recorregut.
+Adjunteu un diagrama de context o components. Expliqueu l'*stack*, el client, l'autenticació, l'API, el manteniment administratiu, les dades, la integració híbrida, la interfície i el desplegament. Justifiqueu com cada peça complix els [mínims dels mòduls](https://cipfpbatoi.github.io/pi2627/condicions-tecniques.html) i aporta valor al recorregut.
 
 | Component/integració | Necessitat coberta | Responsabilitat | Dependència | Fallada o risc |
 | --- | --- | --- | --- | --- |
 |  |  |  |  |  |
+
+### Integració dels mínims dels mòduls
+
+Partiu dels [mínims confirmats](https://cipfpbatoi.github.io/pi2627/condicions-tecniques.html). No decidiu ací la qualificació de cada mòdul: expliqueu la funció de cada mínim dins del projecte i com es podrà provar.
+
+| Mòdul | Activitat o mínim | Funció dins del projecte | Requisit, component o pantalla | Prova i evidència prevista | Decisió pendent o risc | Estat |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  | Confirmat / provisional / pendent |
 
 ## 10. Alternatives i decisions
 
@@ -95,9 +103,9 @@ Adjunteu un diagrama de context o components. Expliqueu el client, l'API d'accé
 
 ## 12. Matriu de traçabilitat
 
-| Necessitat/evidència | Objectiu | Requisit | Component o pantalla | Prova | Risc/decisió |
-| --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |
+| Mòdul/mínim | Necessitat/evidència | Objectiu | Requisit | Component o pantalla | Prova | Risc/decisió |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |
 
 ## 13. Revisió, autoria i ús d'IA
 
@@ -146,7 +154,7 @@ Cada membre adjuntarà la seua defensa d'una cadena de traçabilitat i d'una dec
 - [ ] L'arquitectura no conté components sense justificació.
 - [ ] Les alternatives i els riscos tenen evidències o proves.
 - [ ] La viabilitat considera temps, recursos, costos, dades, permisos i desplegament.
-- [ ] Els mínims tècnics comuns tenen requisits, riscos i proves previstos.
+- [ ] Cada mínim confirmat dels mòduls té una funció real dins del projecte i requisits, riscos, proves i evidències previstos.
 - [ ] La matriu permet seguir una cadena completa fins a la prova.
 - [ ] L'autoria, les fonts i l'ús d'IA són identificables.
 

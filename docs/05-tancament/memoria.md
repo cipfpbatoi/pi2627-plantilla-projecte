@@ -58,6 +58,14 @@ Enllaceu instruccions d'execució, `prototip-v1.0`, casos de prova amb resultat 
 | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |
 
+### Estat final dels mínims dels mòduls
+
+| Mòdul | Activitat o mínim | Integració en el prototip | Prova | Evidència | Estat i limitacions | Validació docent pendent o realitzada |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |
+
+Esta taula no assigna percentatges ni qualificacions. Cada mòdul valida les seues evidències amb l'instrument corresponent.
+
 ## 6. Conclusions i continuïtat
 
 Què està validat? Què és parcial o no funciona? Quines accions, recursos, permisos i proves faltarien per a una versió posterior?

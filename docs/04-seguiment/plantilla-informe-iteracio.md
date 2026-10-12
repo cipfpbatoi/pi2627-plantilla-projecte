@@ -6,6 +6,14 @@ Useu este fitxer com a base per a cada iteració, reanomeneu la còpia amb el n�
 | --- | --- | --- | --- | --- |
 |  |  |  |  |  |
 
+## Mínims dels mòduls treballats en la iteració
+
+| Mòdul | Activitat o mínim | Treball previst | Resultat real | Prova i evidència | Incidència, canvi o decisió | Estat |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |
+
+La valoració acadèmica correspon a cada mòdul. Este informe conserva la traça comuna d'execució i control del PI.
+
 ## 1. Objectiu i resultat demostrable
 
 | Objectiu de la iteració | Risc o hipòtesi principal | Criteri d'èxit o fracàs definit abans de provar | Resultat obtingut | Evidència | Decisió |

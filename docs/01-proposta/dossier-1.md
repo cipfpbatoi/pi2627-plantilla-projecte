@@ -115,7 +115,7 @@ No inclogueu dades personals o transcripcions privades innecessàries.
 
 ### Integració DAW prevista
 
-Expliqueu quin recorregut podria satisfer les [condicions tècniques comunes](https://cipfpbatoi.github.io/pi2627/condicions-tecniques.html). Identifiqueu almenys una possible font d'informació existent i els dubtes que caldrà resoldre en el bloc 3; encara no cal triar framework ni implementar res.
+Expliqueu quin recorregut podria integrar els [mínims confirmats dels mòduls](https://cipfpbatoi.github.io/pi2627/condicions-tecniques.html). Identifiqueu els dubtes que caldrà resoldre en el bloc 3; encara no cal triar framework ni implementar res.
 
 | Àmbit | Necessitat dins de la proposta | Decisió o pregunta pendent |
 | --- | --- | --- |
@@ -220,6 +220,6 @@ Cada membre indicarà:
 - [ ] El prototip té un recorregut principal i exclusions clares.
 - [ ] Es preveu com validar amb persones o casos representatius.
 - [ ] Els riscos, costos, permisos i qüestions de dades estan identificats.
-- [ ] El recorregut pot complir els mínims tècnics comuns sense perdre la relació amb la necessitat.
+- [ ] El recorregut pot integrar els mínims confirmats dels mòduls sense perdre la relació amb la necessitat.
 - [ ] La revisió externa i la decisió docent estan registrades.
 - [ ] Les aportacions individuals, les fonts i l'ús d'IA són identificables.

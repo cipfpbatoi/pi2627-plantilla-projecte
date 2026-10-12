@@ -60,7 +60,7 @@ El pla és acumulatiu. Actualitzeu la versió i els apartats indicats al final d
 
 Enllaceu el cronograma o diagrama de dependències i expliqueu el camí o les dependències crítiques.
 
-Comproveu que les [condicions tècniques comunes](https://cipfpbatoi.github.io/pi2627/condicions-tecniques.html) tenen tasques, responsables, dependències, temps i punts de prova. La seua presència en el Dossier 2 no substituïx la planificació.
+Comproveu que els [mínims dels mòduls](https://cipfpbatoi.github.io/pi2627/condicions-tecniques.html) tenen tasques, responsables, dependències, temps i punts de prova. La seua presència en el Dossier 2 no substituïx la planificació.
 
 ## 8. Valoració econòmica
 
@@ -146,6 +146,14 @@ Enllaceu `pla-desplegament.md` i resumiu entorn, configuració, dades, verificac
 |  |  |  |  |  |
 
 ## 16. Traçabilitat, autoria i IA
+
+### Mínims dels mòduls
+
+| Mòdul | Activitat o mínim | Requisit i tasques | Responsable | Iteració i estimació | Prova | Evidència | Estat o decisió |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |  |
+
+La validació docent i la qualificació corresponen al mòdul que ha definit el mínim. En el PI, esta matriu assegura que el treball està integrat, planificat i traçat.
 
 | Necessitat | Requisit | Lliurable/tasca | Responsable | Prova | Evidència prevista | Risc/decisió |
 | --- | --- | --- | --- | --- | --- | --- |
