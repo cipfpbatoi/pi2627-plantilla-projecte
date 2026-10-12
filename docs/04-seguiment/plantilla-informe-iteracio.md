@@ -1,34 +1,79 @@
 # Plantilla de l'informe d'iteració
 
-Useu este fitxer com a base per a cada iteració, reanomeneu la còpia amb el número real i enllaceu evidències existents; no repliqueu l'historial.
+Useu este fitxer com a base per a cada iteració, reanomeneu la còpia amb el número real i enllaceu evidències existents; no repliqueu l'historial. Adapteu els camps al propòsit de la iteració i indiqueu `No aplicable` amb una justificació quan corresponga.
 
 | Projecte | Iteració i dates | Equip custodi | Versió/commit | Pla d'entrada |
 | --- | --- | --- | --- | --- |
 |  |  |  |  |  |
 
-| Requisit | Issue i responsable | Previst | Fet i prova | Resultat |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
+## 1. Objectiu i resultat demostrable
 
-| Indicador | Valor previst | Valor real i font | Desviació | Decisió |
+| Objectiu de la iteració | Risc o hipòtesi principal | Criteri d'èxit o fracàs definit abans de provar | Resultat obtingut | Evidència | Decisió |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
+
+## 2. Execució respecte del pla
+
+| Requisit o resultat | Issue i responsable | Previst: resultat i hores | Real: resultat i hores | Prova o evidència | Desviació i decisió |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
+
+## 3. Proves i regressions
+
+Incloeu el camí correcte, almenys un error rellevant i les regressions aplicables. En la iteració 5.1, registreu ací la prova tècnica i enllaceu les instruccions reproduïbles de l'entorn.
+
+| ID | Requisit, risc o condició | Tipus de prova | Versió i entorn | Resultat esperat | Resultat real | Estat | Evidència o incidència |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| PR-01 |  | Correcta / error / regressió / tècnica / altra |  |  |  |  |  |
+
+## 4. Indicadors
+
+| Indicador | Valor previst o llindar | Valor real i font | Desviació | Decisió |
 | --- | --- | --- | --- | --- |
 | Hores |  |  |  |  |
 | Tasques acabades |  |  |  |  |
 | Proves satisfactòries |  |  |  |  |
 
-| Incidència/risc/canvi | Origen i efecte | Resposta i responsable | Verificació/autorització | Estat |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
+## 5. Incidències, riscos i canvis
 
-## Revisió i següent pas
+### Incidències
 
-- Resultat demostrable i prova reproduïble:
-- Feedback de persones usuàries o comprovació de condicions, si pertoquen:
+| Incidència | Efecte i prioritat | Diagnòstic | Resposta i responsable | Comprovació | Estat |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
+
+### Riscos
+
+| Risc | Probabilitat/impacte | Senyal | Prevenció | Resposta i responsable | Estat |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
+
+### Canvis
+
+| Canvi i origen | Alternatives considerades | Impacte en abast/temps/cost/risc/proves | Decisió | Autorització | Versió |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
+
+## 6. Participació de persones usuàries o validació alternativa
+
+| Participant o cas representatiu | Guió, tasca o criteri | Condicions, consentiment o protecció | Resultat o observació | Evidència | Decisió |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
+
+## 7. Revisió i següent pas
+
+- Resultat demostrable i instruccions per reproduir-lo:
+- Què està implementat, provat i validat:
 - Limitacions i treball ajornat amb motiu:
 - Tasques, capacitat i riscos per a la pròxima iteració:
-- Aportacions i revisions individuals enllaçades:
 - Fonts i ús d'IA actualitzats en `docs/00-control/fonts-ia.md`:
 
-## Abast curricular
+## 8. Evidències individuals
+
+| Membre | Registre individual | Aportació verificable | Revisió realitzada | Decisió o prova que pot defensar |
+| --- | --- | --- | --- | --- |
+|  | `evidencies/alumnat/nom-cognoms.md` |  |  |  |
+
+## 9. Abast curricular
 
 Indiqueu per a cada RA4.a–g aplicable si l'evidència és **parcial** o **suficient dins del bloc**, amb l'enllaç concret. Si heu modificat el pla, identifiqueu els RA3.a–h observables. No marqueu un criteri només perquè aparega citat en el document.

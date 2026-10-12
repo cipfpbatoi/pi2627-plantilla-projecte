@@ -1,3 +1,5 @@
 # Tancament
 
-Conserveu ací la memòria, la comparació entre previsió i execució, la validació final, les limitacions, les instruccions de desplegament i les conclusions.
+Conserveu ací la memòria del projecte custodiat, la comparació entre previsió i execució, la validació final, les limitacions, les instruccions de desplegament i les conclusions. La parella desenvolupadora coordina el document i la parella autora participa en la validació circular.
+
+Marqueu la memòria presentada amb `tancament-v1.0`. El portafolis individual sobre els tres projectes es lliura separadament en T12 i no s'ha de confondre amb esta memòria compartida.
