@@ -2,6 +2,16 @@
 
 Completeu este fitxer i conserveu-ne l'historial de versions. Substituïu les orientacions pel contingut del vostre equip i adjunteu o enllaceu evidències verificables.
 
+## Com completar el dossier per sessions
+
+Este dossier és acumulatiu: no cal completar-lo tot en la primera sessió. Actualitzeu la versió i els apartats indicats al final de cada sessió.
+
+| Moment | Apartats que cal completar o revisar |
+| --- | --- |
+| Sessió 1. Investigar necessitats | 1–5, 10, 13 i evidència individual de la sessió 1 en el 14 |
+| Sessió 2. Comparar alternatives | Revisar 3 i 5; completar 6–10, 13 i evidència individual de la sessió 2 en el 14 |
+| Consolidació, revisió i decisió | Completar 11–15 i actualitzar qualsevol apartat afectat |
+
 ## 1. Identificació i control de versions
 
 | Dada | Informació |
@@ -17,17 +27,29 @@ Completeu este fitxer i conserveu-ne l'historial de versions. Substituïu les or
 
 ## 2. Origen de les propostes
 
-| Situació candidata | Persona o col·lectiu afectat | Indici inicial | Decisió: investigar o descartar | Motiu |
+### Banc inicial de situacions
+
+| Situació actual | Persona o col·lectiu afectat | Indici o evidència inicial | Què falta saber? | Possible aportació web, sense concretar-la encara |
 | --- | --- | --- | --- | --- |
 |  |  |  |  |  |
+
+### Primera selecció
+
+| Necessitat candidata | Rellevància | Accés a informació o persones | Possibilitat de validació | Adequació a DAW | Investigar o descartar | Motiu o dubte principal |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Baixa/mitjana/alta |  |  |  |  |  |
 
 ## 3. Necessitats investigades
 
-Per cada candidata finalista, resumiu el context, la necessitat, les causes i conseqüències, les persones afectades i les limitacions de la investigació.
+Per cada candidata finalista, creeu una subsecció amb el seu nom i resumiu el context, la necessitat, les causes i conseqüències, les persones afectades, per què podria justificar un projecte DAW i les limitacions de la investigació. Reviseu les afirmacions en la sessió 2.
 
-| Afirmació rellevant | Confirmada, probable o suposada | Evidència o font | Limitació | Decisió afectada |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
+### Candidata: <!-- nom breu -->
+
+<!-- Context, situació actual, persones afectades, causes i conseqüències i relació possible amb un projecte DAW. -->
+
+| Afirmació rellevant | Confirmada, probable o suposada | Evidència o font | Limitació o risc si és falsa | Cal verificar-la abans de decidir? | Decisió afectada |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
 
 ## 4. Parts interessades i validació
 
@@ -37,19 +59,19 @@ Per cada candidata finalista, resumiu el context, la necessitat, les causes i co
 
 ## 5. Fonts i mètodes
 
-| Autoria o participant | Font o mètode | Data | Informació obtinguda | Contrast i fiabilitat | Ús en la proposta |
-| --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |
+| Pregunta d'investigació | Font o mètode | Autoria, participant o responsable | Data | Resultat o informació obtinguda | Contrast, fiabilitat o limitació | Decisió afectada |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |
 
 No inclogueu dades personals o transcripcions privades innecessàries.
 
 ## 6. Alternatives
 
-| Alternativa | Necessitat coberta | Valor | Prototip possible | Recursos o costos | Riscos i implicacions |
-| --- | --- | --- | --- | --- | --- |
-| A |  |  |  |  |  |
-| B |  |  |  |  |  |
-| C |  |  |  |  |  |
+| Alternativa | Necessitat coberta | Persones beneficiàries | Valor esperat | Prototip possible | Recursos o costos | Riscos i implicacions |
+| --- | --- | --- | --- | --- | --- | --- |
+| A |  |  |  |  |  |  |
+| B |  |  |  |  |  |  |
+| C |  |  |  |  |  |  |
 
 ## 7. Criteris i comparació
 
@@ -59,7 +81,9 @@ No inclogueu dades personals o transcripcions privades innecessàries.
 
 ### Prova de sensibilitat
 
-<!-- Quina hipòtesi o canvi de criteri heu provat? Ha canviat la selecció? Què heu de verificar? -->
+| Hipòtesi o importància modificada | Motiu del canvi | Resultat abans | Resultat després | La selecció és robusta o fràgil? | Què cal verificar? |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
 
 ## 8. Proposta seleccionada
 
@@ -82,6 +106,12 @@ No inclogueu dades personals o transcripcions privades innecessàries.
 | Inclòs en el prototip | Exclòs o ajornat | Motiu |
 | --- | --- | --- |
 |  |  |  |
+
+### Prova prioritària i alternativa de reserva
+
+| Risc o hipòtesi principal | Prova tècnica o d'ús prevista | Resultat o evidència esperada | Alternativa de reserva si falla |
+| --- | --- | --- | --- |
+|  |  |  |  |
 
 ### Integració DAW prevista
 
@@ -114,6 +144,19 @@ Per als mínims comuns, expliqueu-ne la funció dins del recorregut. Justifiqueu
 
 ## 11. Revisió creuada
 
+### Revisió realitzada per l'altre equip
+
+| Comprovació | Evidència trobada | Pregunta o risc | Millora prioritària |
+| --- | --- | --- | --- |
+| La necessitat està demostrada |  |  |  |
+| La proposta aporta valor |  |  |  |
+| L'abast inicial és assumible |  |  |  |
+| El prototip permet validar la idea |  |  |  |
+| Hi ha alternativa si falla una hipòtesi |  |  |  |
+| Es poden observar aportacions individuals |  |  |  |
+
+### Tractament de les observacions rebudes
+
 | Observació rebuda | Acceptada, rebutjada o pendent | Justificació | Canvi realitzat |
 | --- | --- | --- | --- |
 |  |  |  |  |
@@ -124,9 +167,9 @@ Per als mínims comuns, expliqueu-ne la funció dins del recorregut. Justifiqueu
 | --- | --- | --- | --- |
 | Acceptada / amb ajustos / reformular |  |  |  |
 
-| Ajust o qüestió pendent | Responsable | Evidència esperada | Data de revisió | Estat |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
+| Ajust o qüestió pendent | Motiu | Responsable | Evidència esperada | Data de revisió | Qui valida? | Estat |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |
 
 ## 13. Fonts i ús d'IA
 
@@ -138,12 +181,35 @@ Si no heu utilitzat IA, indiqueu-ho expressament.
 
 ## 14. Evidència individual
 
-Cada membre adjuntarà les respostes de les sessions 1 i 2, inclosa la decisió final, i indicarà:
+Cada membre elaborarà la seua resposta en `evidencies/alumnat/nom-cognoms.md` i l'enllaçarà ací. No unifiqueu les respostes ni substituïu les diferències per una resposta consensuada.
+
+| Membre | Evidència de la sessió 1 | Evidència de la sessió 2 | Eixida individual i decisió final |
+| --- | --- | --- | --- |
+|  |  |  |  |
+
+### Sessió 1
+
+Cada membre indicarà quina candidata considera més prometedora, quina evidència sosté la seua opinió i què podria fer-li canviar d'idea.
+
+### Sessió 2
+
+Cada membre respondrà:
+
+1. Quin problema es pretén resoldre i quina evidència el sosté?
+2. Per què s'ha descartat l'alternativa més pròxima?
+3. Quin és el límit més important del prototip?
+4. Quina hipòtesi podria invalidar la proposta?
+5. Quina decisió ha ajudat a prendre i amb quina aportació concreta?
+
+### Eixida individual després de la revisió
+
+Cada membre indicarà:
 
 - aportacions verificables;
 - decisió que pot defensar;
 - objecció o canvi d'opinió rellevant;
-- treball que proposa assumir en el bloc 3.
+- treball que proposa assumir en el bloc 3;
+- fonts o usos d'IA que haja incorporat i com els ha verificat.
 
 ## 15. Revisió final
 
