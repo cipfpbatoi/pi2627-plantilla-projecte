@@ -6,7 +6,11 @@
 - Creeu una issue amb responsable, resultat, dependències i evidència.
 - Useu una branca com `23-model-dades` o `41-prova-accessibilitat`.
 - Feu commits breus que expliquen el resultat, no només l'acció.
+- Feu-los quan hi haja un resultat intermedi revisable; no acumuleu tot el treball al final ni el fragmenteu artificialment per augmentar el recompte.
+- Useu missatges com `Justifica l'arquitectura i actualitza els riscos #27`, no `canvis`, `update` o `fix`.
 - Relacioneu la pull request amb la issue (`Relacionada amb #23`). Useu `Tanca #23` només quan una única pull request complete tota la issue.
+
+La cronologia ha de permetre entendre l'evolució entre investigació, decisions, planificació, execució, proves i revisions. Si una evidència nova obliga a tornar a una fase anterior, registreu el motiu en el missatge i en la decisió corresponent. Els dies actius, els intervals i el nombre de commits són indicis per revisar el procés, no punts automàtics ni una mesura directa de l'aportació individual.
 
 ## Revisió
 
