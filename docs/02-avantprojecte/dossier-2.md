@@ -1,6 +1,6 @@
 # Plantilla del Dossier 2. Avantprojecte
 
-Completeu este fitxer a partir de la versió acceptada del Dossier 1 i conserveu l'historial. Enllaceu els diagrames, prototips, proves i fonts; no dupliqueu evidències sense necessitat.
+Completeu este fitxer a partir de la versió acceptada del Dossier 1 i conserveu l'historial. Enllaceu els diagrames, prototips, proves i fonts; no dupliqueu evidències sense necessitat. Consulteu la [rúbrica publicada del Bloc 3](https://cipfpbatoi.github.io/pi2627/bloc3-rubriques.html) per conéixer els productes observables, els nivells i la relació curricular.
 
 ## Com completar l'avantprojecte per sessions
 
@@ -112,7 +112,7 @@ Enllaceu el prototip de baixa fidelitat i documenteu jerarquia, navegació, esta
 
 ## 9. Arquitectura i integracions
 
-Adjunteu un diagrama de context o components. Expliqueu l'*stack*, el client, l'autenticació, l'API, el manteniment administratiu, les dades, la integració híbrida, la interfície, la infraestructura en el núvol i la integració i el desplegament continus. Justifiqueu com cada peça complix els [mínims dels mòduls](https://cipfpbatoi.github.io/pi2627/condicions-tecniques.html) i aporta valor al recorregut.
+Adjunteu un diagrama de context o components. Expliqueu l'*stack*, el client, l'autenticació, l'API, el manteniment administratiu, les dades, la integració híbrida, la interfície, la infraestructura en el núvol i la integració i el desplegament continus. Per al client, compareu frameworks i JavaScript Vanilla segons la necessitat, els requisits, els riscos, les capacitats de l'equip, el temps i el desplegament; descriviu com la SPA sosté el recorregut principal i consumix l'API pròpia. Concreteu també el mecanisme d'autenticació i l'operació protegida que usarà la SPA. Justifiqueu com cada peça complix els [mínims dels mòduls](https://cipfpbatoi.github.io/pi2627/condicions-tecniques.html) i aporta valor al recorregut.
 
 | Component/integració | Necessitat coberta | Responsabilitat | Dependència | Fallada o risc |
 | --- | --- | --- | --- | --- |
@@ -202,4 +202,4 @@ Cada membre adjuntarà la seua defensa d'una cadena de traçabilitat i d'una dec
 
 ## Abast curricular de l'evidència
 
-El dossier pot aportar evidència **suficient dins del bloc** de RA2.a, RA2.c, RA2.d, RA2.h i RA2.i si el contingut és coherent i verificable. Aporta evidència **parcial** de RA2.b, RA2.e, RA2.f i RA2.g, que s'ampliarà amb la planificació i l'execució. L'abast real s'ha de determinar per alumne o alumna a partir de les aportacions i la defensa.
+El dossier pot aportar evidència **suficient dins del bloc** de RA2.a, RA2.b, RA2.c, RA2.d, RA2.h i RA2.i si el contingut és coherent, verificable i contrastat individualment. Aporta evidència **parcial** de RA2.e i RA2.f, que s'ampliarà amb la planificació. RA2.g no es demana explícitament i la seua absència no es penalitza. Consulteu la [rúbrica publicada](https://cipfpbatoi.github.io/pi2627/bloc3-rubriques.html) per aplicar estos límits.
