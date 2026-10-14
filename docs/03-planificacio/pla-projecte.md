@@ -1,6 +1,6 @@
 # Plantilla del Pla del projecte
 
-Completeu este fitxer a partir de la versió immutable del Dossier 2 i enllaceu les issues, fites, diagrames i documents auxiliars.
+Completeu este fitxer a partir de la versió immutable del Dossier 2 i enllaceu les issues, fites, diagrames i documents auxiliars. Consulteu les [rúbriques del pla i del traspàs](https://cipfpbatoi.github.io/pi2627/bloc4-rubriques.html) per conéixer com es revisarà exactament allò que es demana.
 
 ## Com completar el pla per sessions
 
@@ -144,7 +144,7 @@ Enllaceu `pla-proves.md`.
 
 ## 13. Pla de desplegament
 
-Enllaceu `pla-desplegament.md` i resumiu entorn, configuració, dades, verificació, recuperació, dependències i costos.
+Enllaceu `pla-desplegament.md` i resumiu els requeriments base, la solució d'infraestructura en el núvol, els entorns, la configuració i els secrets, les dades, el procés d'integració i desplegament continus, la verificació, la recuperació, les dependències i els costos.
 
 ## 14. Seguiment i incidències
 
@@ -221,4 +221,4 @@ Actualitzeu `docs/00-control/fonts-ia.md` i `decisions.md`. Cada membre defensar
 
 ## Abast curricular de l'evidència
 
-El pla pot aportar evidència **suficient dins del bloc** de RA3.a–h si és coherent, executable i atribuïble. Pot aportar evidència de RA4.a–g sobre els procediments definits; la seua aplicació i eficàcia es contrastaran durant el prototip. L'abast real es determina per alumne o alumna i els criteris no aplicables s'han de justificar.
+El pla escrit pot aportar evidència de RA3.a–e per a `PR-Q.4.1.x`; la planificació i el traspàs defensats poden aportar evidència de RA3.f–h per a `DO-Q.4.2.x`. La necessitat o no de finançament reforça RA2.g perquè està demanada en l'apartat 8. Els procediments definits poden aportar evidència formativa de RA4.a–g, que es contrastarà durant el prototip i no forma part de la qualificació del Bloc 4. L'abast real es determina per alumne o alumna i les condicions no aplicables s'han de justificar.
