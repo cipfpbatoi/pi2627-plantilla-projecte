@@ -18,7 +18,7 @@ En acabar la primera sessió han de quedar emplenats:
 
 - **1:** identificació de l'equip i versió `0.1`;
 - **2:** banc inicial i selecció de dues a quatre candidates;
-- **3:** context sectorial i fitxa de cada necessitat candidata, amb evidències i limitacions;
+- **3:** fitxa de cada necessitat candidata, amb evidències i limitacions;
 - **4:** parts interessades i possible participació en la validació;
 - **5:** preguntes, fonts o mètodes, resultats i fiabilitat;
 - **10:** repartiment del treball i autoria;
@@ -57,20 +57,6 @@ No completeu encara els apartats **6–9, 11, 12 i 15**. Es treballaran en la se
 ## 3. Necessitats investigades
 
 Per cada candidata finalista, creeu una subsecció amb el seu nom i resumiu el context, la necessitat, les causes i conseqüències, les persones afectades, per què podria justificar un projecte DAW i les limitacions de la investigació. Reviseu les afirmacions en la sessió 2.
-
-### Context sectorial i organitzacions de referència
-
-Seleccioneu dos o tres exemples representatius relacionats amb les necessitats estudiades. Classifiqueu-los amb criteris explícits; no feu un directori d'empreses ni copieu descripcions comercials.
-
-| Empresa o organització de referència | Tipus segons l'organització | Producte o servei | Font | Rellevància per a la necessitat |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-
-Caracteritzeu una o més empreses tipus. Incloeu només els departaments, àrees o funcions que ajuden a entendre el problema, l'accés a informació o la validació.
-
-| Empresa tipus | Departament, àrea o funció | Responsabilitat | Relació amb la necessitat o el projecte |
-| --- | --- | --- | --- |
-|  |  |  |  |
 
 ### Candidata: <!-- nom breu -->
 
@@ -120,14 +106,6 @@ No inclogueu dades personals o transcripcions privades innecessàries.
 
 <!-- Expresseu què millorarà, per a qui i per què esta resposta és adequada. -->
 
-### Oportunitat previsible
-
-No doneu per segura la demanda, l'adopció ni la rendibilitat. Expliqueu quina oportunitat de negoci o de prestació de serveis en el sector podria existir i en quines condicions.
-
-| Oportunitat | Persones o organitzacions beneficiàries | Evidència que la fa plausible | Condicions perquè es produïsca | Incertesa o risc principal |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-
 ### Objectiu i criteris d'èxit inicials
 
 | Objectiu | Criteri d'èxit | Evidència prevista |
@@ -173,31 +151,11 @@ Per als mínims comuns, expliqueu-ne la funció dins del recorregut. Justifiqueu
 | Legal, permisos o dades |  |  |  |
 | Accessibilitat i ús |  |  |  |
 
-### Base per a la validació oral: obligacions i ajudes
-
-Registreu una cerca breu i verificable. Indiqueu «no aplicable» només després de comprovar l'escenari; no presenteu esta taula com a assessorament professional definitiu.
-
-| Àmbit | Obligació possible | Aplicable ara, en una posada en marxa o no aplicable | Condicions i dubtes | Font verificable i data |
-| --- | --- | --- | --- | --- |
-| Fiscal |  |  |  |  |
-| Laboral |  |  |  |  |
-| Prevenció de riscos |  |  |  |  |
-
-| Ajuda o subvenció possible | Finalitat i persones beneficiàries | Vigència o termini | Requisits bàsics i encaix | Font oficial | Alternativa si no és aplicable |
-| --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |
-
 ## 10. Organització i autoria
 
 | Treball inicial | Responsable | Col·laboració | Evidència individual o grupal |
 | --- | --- | --- | --- |
 |  |  |  |  |
-
-### Guió inicial de treball
-
-| Pas o decisió | Resultat esperat | Dependències | Responsable | Evidència prevista | Punt de revisió |
-| --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |
 
 ## 11. Revisió creuada
 
@@ -257,12 +215,6 @@ Cada membre respondrà:
 3. Quin és el límit més important del prototip?
 4. Quina hipòtesi podria invalidar la proposta?
 5. Quina decisió ha ajudat a prendre i amb quina aportació concreta?
-
-Per a la validació oral, cada membre haurà de poder explicar, sense limitar-se a llegir el dossier:
-
-- una obligació fiscal, laboral o preventiva i quan seria aplicable;
-- una ajuda possible, o com s'ha comprovat que no se n'ha localitzat cap d'adequada;
-- l'ordre del guió de treball, una dependència i una evidència prevista.
 
 ### Eixida individual després de la revisió
 
