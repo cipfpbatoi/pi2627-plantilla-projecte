@@ -72,7 +72,7 @@ docs/01-proposta/dossier-1.md
 evidencies/alumnat/nom-cognoms.md
 ```
 
-El dossier conté el treball compartit. Cada reflexió i aportació individual es registra una sola vegada en el fitxer personal i s'enllaça des del dossier i el README. L'etiqueta `dossier-1-v1.0` es crea al final del bloc 2.
+El dossier conté el treball compartit. Cada reflexió i aportació individual es registra una sola vegada en el fitxer personal i s'enllaça des del dossier i el README. Consulteu les [rúbriques del Bloc 2](https://cipfpbatoi.github.io/pi2627/bloc2-rubriques.html) abans de preparar la versió final. L'etiqueta `dossier-1-v1.0` es crea al final del bloc 2.
 
 Quan comenceu el projecte, substituïu les orientacions inicials d'este README per una portada breu com esta:
 
