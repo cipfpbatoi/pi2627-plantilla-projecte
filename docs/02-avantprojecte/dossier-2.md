@@ -4,7 +4,7 @@ Completeu este fitxer a partir de la versió acceptada del Dossier 1 i conserveu
 
 ## Com completar l'avantprojecte per sessions
 
-El dossier és acumulatiu. En cada sessió completeu els apartats indicats i reviseu els anteriors quan una prova o una decisió aporte informació nova.
+El dossier és acumulatiu i és el registre canònic del bloc. En cada sessió completeu directament els apartats indicats i reviseu els anteriors quan una prova o una decisió aporte informació nova. Les guies de sessió expliquen com treballar-los, però no heu de mantindre còpies de les taules amb camps diferents.
 
 | Moment | Apartats que cal completar o revisar |
 | --- | --- |
@@ -20,7 +20,7 @@ El dossier és acumulatiu. En cada sessió completeu els apartats indicats i rev
 - **4:** abast, exclusions, supòsits i manera de comprovar-los;
 - **5:** requisits funcionals i no funcionals prioritzats i verificables;
 - **12:** almenys una cadena necessitat → objectiu → requisit → prova;
-- **13:** aportacions, autoria, fonts i ús d'IA de la sessió.
+- **13:** aportacions, autoria, fonts, ús d'IA i revisions de la sessió.
 
 No completeu encara el disseny funcional, les dades, la interfície, l'arquitectura, la viabilitat ni el traspàs.
 
@@ -38,8 +38,8 @@ La guia d'arquitectura i alternatives està integrada en esta sessió; no és un
 
 - **8:** prototip de baixa fidelitat, prova realitzada i canvis decidits;
 - **11:** viabilitat tècnica, temporal, econòmica, legal, operativa i d'ús;
-- **12–13:** traçabilitat final, autoria, fonts i ús d'IA;
-- **14:** decisió docent, ajustos i acta de traspàs;
+- **12–13:** traçabilitat final, autoria, fonts, ús d'IA i revisió creuada;
+- **14:** decisió docent, ajustos i referència a l'acta canònica de traspàs;
 - **15:** revisió final completa.
 
 La revisió de viabilitat està integrada en esta sessió. Abans de crear `dossier-2-v1.0`, reviseu també els apartats 1–10 afectats per les proves i decisions.
@@ -106,9 +106,9 @@ Adjunteu el model de les dades pròpies, incloent-hi comptes d'usuari i una enti
 
 Enllaceu el prototip de baixa fidelitat i documenteu jerarquia, navegació, estats, errors, adaptabilitat i decisions d'accessibilitat.
 
-| Tasca provada | Participant/cas | Observació | Resultat | Canvi o decisió |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
+| Tasca provada | Participant/cas | Observació | Problema o interpretació | Resultat | Canvi o decisió |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
 
 ## 9. Arquitectura i integracions
 
@@ -161,6 +161,12 @@ Partiu dels [mínims confirmats](https://cipfpbatoi.github.io/pi2627/condicions-
 
 Cada membre adjuntarà la seua defensa d'una cadena de traçabilitat i d'una decisió, incloent-hi objeccions o canvis de criteri.
 
+### Revisió creuada
+
+| Aspecte revisat | Observació o ruptura detectada | Decisió | Justificació | Canvi, responsable i evidència |
+| --- | --- | --- | --- | --- |
+|  |  | Acceptada / rebutjada / pendent |  |  |
+
 ## 14. Decisió docent i traspàs al bloc 4
 
 | Resultat | Data | Condicions | Persona que valida |
@@ -171,21 +177,13 @@ Cada membre adjuntarà la seua defensa d'una cadena de traçabilitat i d'una dec
 | --- | --- | --- | --- | --- |
 |  |  |  |  |  |
 
-### Acta de traspàs
+### Referència a l'acta canònica de traspàs
 
-| Dada | Registre |
-| --- | --- |
-| Versió entregada i data |  |
-| Parella autora/emissora |  |
-| Parella planificadora/receptora |  |
-| Evidències i recursos accessibles |  |
-| Qüestions obertes i riscos coneguts |  |
-| Acceptat / amb reserves / retornat |  |
-| Reserves o elements per completar |  |
+Completeu una única acta en `traspassos/01-avantprojecte-a-planificacio.md`. El dossier només en conserva la referència i l'estat per evitar dos registres divergents.
 
-| Pregunta del receptor | Resposta de l'autor | Evidència o decisió afectada | Data |
+| Acta de traspàs | Enllaç o hash del commit | Estat | Reserves o elements pendents |
 | --- | --- | --- | --- |
-|  |  |  |  |
+| `traspassos/01-avantprojecte-a-planificacio.md` |  | Acceptat / amb reserves / retornat |  |
 
 ## 15. Revisió final
 
@@ -199,6 +197,8 @@ Cada membre adjuntarà la seua defensa d'una cadena de traçabilitat i d'una dec
 - [ ] Cada mínim confirmat dels mòduls té una funció real dins del projecte i requisits, riscos, proves i evidències previstos.
 - [ ] La matriu permet seguir una cadena completa fins a la prova.
 - [ ] L'autoria, les fonts i l'ús d'IA són identificables.
+- [ ] La revisió creuada i les decisions que ha provocat estan registrades.
+- [ ] L'acta canònica de traspàs està enllaçada i el seu estat coincidix amb el dossier.
 
 ## Abast curricular de l'evidència
 
