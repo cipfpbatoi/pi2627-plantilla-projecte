@@ -1,0 +1,51 @@
+name: Tancament del retorn del Bloc 3
+description: Seguiment de les esmenes de la graella d'acceptació de l'avantprojecte
+title: "[B3] Tancament del retorn docent de l'avantprojecte"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Esta issue ajuda a seguir les esmenes. El registre canònic i la verificació docent es mantenen en l'apartat 14 de `docs/02-avantprojecte/dossier-2.md`.
+
+  - type: input
+    id: candidate_commit
+    attributes:
+      label: Commit candidat revisat
+      description: Hash complet del commit sobre el qual s'ha emés el retorn docent.
+      placeholder: 40 caràcters hexadecimals
+    validations:
+      required: true
+
+  - type: textarea
+    id: amendments
+    attributes:
+      label: Esmenes de la graella
+      description: Creeu una casella per cada B3-xx i enllaceu la fila corresponent de l'apartat 14.
+      placeholder: |
+        - [ ] B3-01 — Dimensió — Esmena requerida
+        - [ ] B3-02 — Dimensió — Esmena requerida
+    validations:
+      required: true
+
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidències preparades per revisar
+      description: Per cada B3-xx, indiqueu el commit, fitxer, apartat, prova o altre producte verificable.
+      placeholder: |
+        B3-01: enllaç al commit i apartat modificat
+        B3-02: enllaç a la prova i resultat
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Comprovacions de l'equip
+      options:
+        - label: L'apartat 14 conté totes les files P o N amb identificador B3-xx.
+          required: true
+        - label: Cada esmena té responsable, data i evidència o previsió verificable.
+          required: true
+        - label: No hem marcat cap esmena com a verificada; la verificació correspon al professorat.
+          required: true

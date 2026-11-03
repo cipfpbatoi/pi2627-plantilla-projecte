@@ -39,10 +39,10 @@ La guia d'arquitectura i alternatives està integrada en esta sessió; no és un
 - **8:** prototip de baixa fidelitat, prova realitzada i canvis decidits;
 - **11:** viabilitat tècnica, temporal, econòmica, legal, operativa i d'ús;
 - **12–13:** traçabilitat final, autoria, fonts, ús d'IA i revisió creuada;
-- **14:** decisió docent, ajustos i referència a l'acta canònica de traspàs;
+- **14:** control d'esmenes, decisió docent i referència a l'acta canònica de traspàs;
 - **15:** revisió final completa.
 
-La revisió de viabilitat està integrada en esta sessió. Abans de crear `dossier-2-v1.0`, reviseu també els apartats 1–10 afectats per les proves i decisions.
+La revisió de viabilitat està integrada en esta sessió. Entregueu el hash complet d'un commit candidat, apliqueu el retorn de la graella en l'apartat 14 i reviseu també els apartats 1–10 afectats. Creeu `dossier-2-v1.0` només després de superar la porta d'acceptació.
 
 ## 1. Identificació, versions i condicions d'entrada
 
@@ -169,13 +169,33 @@ Cada membre adjuntarà la seua defensa d'una cadena de traçabilitat i d'una dec
 
 ## 14. Decisió docent i traspàs al bloc 4
 
+### Versió candidata i control d'esmenes
+
+| Hash complet del commit candidat | Data del retorn | Enllaç a la issue de seguiment |
+| --- | --- | --- |
+|  |  | `[B3] Tancament del retorn docent de l'avantprojecte` |
+
+Traslladeu a esta taula cada fila `P` o `N` de la graella docent. L'equip pot marcar una esmena com a `Pendent` o `Preparada per revisar`; la verificació final correspon al professorat.
+
+| ID | Dimensió | Retorn `P/N` | Bloqueja? | Esmena requerida | Responsable | Data límit | Evidència o commit | Estat de l'equip | Verificació docent |
+| --- | --- | :---: | :---: | --- | --- | --- | --- | --- | --- |
+| B3-__ |  |  | Sí / No |  |  |  |  | Pendent / Preparada per revisar | Verificada / Reserva acceptada / No resolta |
+
+La porta d'acceptació s'aplica així:
+
+- **Apta per planificar:** no queda cap `N` bloquejant i totes les esmenes estan verificades.
+- **Apta amb ajustos:** no queda cap `N` bloquejant i qualsevol pendent no bloquejant està acceptat com a reserva, amb responsable, data i evidència prevista.
+- **Revisar el disseny:** queda algun `N` bloquejant, una esmena no està resolta o falta evidència per comprovar-la.
+
+### Decisió docent final
+
 | Resultat | Data | Condicions | Persona que valida |
 | --- | --- | --- | --- |
 | Apta per planificar / apta amb ajustos / revisar |  |  |  |
 
-| Ajust | Responsable | Evidència | Data | Estat |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
+| Etiqueta immutable acceptada | Commit etiquetat | Data de creació |
+| --- | --- | --- |
+| `dossier-2-v1.0` |  |  |
 
 ### Referència a l'acta canònica de traspàs
 
