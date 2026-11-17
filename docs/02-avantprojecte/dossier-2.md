@@ -1,6 +1,6 @@
 # Plantilla del Dossier 2. Avantprojecte
 
-Completeu este fitxer a partir de la versió acceptada del Dossier 1 i conserveu l'historial. Enllaceu els diagrames, prototips, proves i fonts; no dupliqueu evidències sense necessitat. Consulteu la [rúbrica publicada del Bloc 3](https://cipfpbatoi.github.io/pi2627/bloc3-rubriques.html) per conéixer els productes observables, els nivells i la relació curricular.
+Completeu este fitxer a partir de la versió acceptada del Dossier 1 i conserveu l'historial. Enllaceu els diagrames, maquetes, revisions, casos de validació futura i fonts; no dupliqueu evidències sense necessitat. Consulteu la [rúbrica publicada del Bloc 3](https://cipfpbatoi.github.io/pi2627/bloc3-rubriques.html) per conéixer els productes observables, els nivells i la relació curricular.
 
 ## Com completar l'avantprojecte per sessions
 
@@ -36,7 +36,7 @@ La guia d'arquitectura i alternatives està integrada en esta sessió; no és un
 
 ### Checklist concreta de la sessió 3
 
-- **8:** prototip de baixa fidelitat, prova realitzada i canvis decidits;
+- **8:** maqueta de baixa fidelitat, recorregut revisat i canvis decidits;
 - **11:** viabilitat tècnica, temporal, econòmica, legal, operativa i d'ús;
 - **12–13:** traçabilitat final, autoria, fonts, ús d'IA i revisió creuada;
 - **14:** control d'esmenes, decisió docent i referència a l'acta canònica de traspàs;
@@ -70,7 +70,7 @@ Resumiu la necessitat validada i enllaceu les fonts del Dossier 1. Indiqueu nom�
 
 ## 4. Abast, exclusions i supòsits
 
-| Inclòs en el prototip | Exclòs o ajornat | Motiu | Condició per revisar-ho |
+| Inclòs en la solució prevista | Exclòs o ajornat | Motiu | Condició per revisar-ho |
 | --- | --- | --- | --- |
 |  |  |  |  |
 
@@ -102,11 +102,11 @@ Adjunteu el model de les dades pròpies, incloent-hi comptes d'usuari i una enti
 | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |
 
-## 8. Interfície i prova primerenca
+## 8. Interfície i revisió del recorregut
 
-Enllaceu el prototip de baixa fidelitat i documenteu jerarquia, navegació, estats, errors, adaptabilitat i decisions d'accessibilitat.
+Enllaceu la maqueta de baixa fidelitat i documenteu jerarquia, navegació, estats, errors, adaptabilitat i decisions d'accessibilitat. Una persona de l'equip recorre els dibuixos i una altra comprova si tots els passos, estats i missatges estan representats. No cal cap participant extern i esta revisió no valida el producte.
 
-| Tasca provada | Participant/cas | Observació | Problema o interpretació | Resultat | Canvi o decisió |
+| Recorregut revisat | Revisió interna o cas | Criteris comprovats | Mancança o contradicció | Resultat de la revisió | Canvi o decisió |
 | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |
 
@@ -210,7 +210,7 @@ Completeu una única acta en `traspassos/01-avantprojecte-a-planificacio.md`. El
 - [ ] Els objectius i requisits deriven d'evidències o hipòtesis identificades.
 - [ ] El recorregut principal, els errors i les exclusions són coherents.
 - [ ] Les dades recollides són necessàries i tenen accés i conservació definits.
-- [ ] El prototip s'ha contrastat i els canvis estan registrats.
+- [ ] La maqueta i els recorreguts s'han revisat i els canvis estan registrats.
 - [ ] L'arquitectura no conté components sense justificació.
 - [ ] Les alternatives i els riscos tenen evidències o proves.
 - [ ] La viabilitat considera temps, recursos, costos, dades, permisos i desplegament.
